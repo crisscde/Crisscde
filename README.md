@@ -20,7 +20,7 @@ I like
 <h2>I'm currently</h2>
 <ul>
   <li>🥖 Learning English</li>
-  <li>☁️ Learning AWS</li>
+  <li>☁️ Learning DataBases</li>
   <li>🐋 Learning Docker</li>
   <li>🐍 Learning Python and JavaScript</li>
   <li>📹 In the Process of Creating Content </li>
