@@ -2,29 +2,18 @@
    Hi There! I´m Cristopher   
 </h1>
 
-Hi! I'm Christopher, aka Crisscoder, I'm a Junior Front-end. I'm Studying Ing. Computational Systems and Software in the UNID
-I like  
+Hi! I'm Christopher, I'm a Junior Front-end. I'm Studying Ing. Computational Systems and Software in the UNID
 
 <h2>About me</h2>
 <ul>
   <li>🗯️ 18 years</li>
   <li>🇲🇽 Mexican</li>
   <li>📱 TechLover</li>
-  <li>🗣️ English(B1+) and Spanish</li>
-  <li>🤓 Nerdy but cool </li>
+  <li>🗣️ English(B1) and Spanish</li>
   <li>🧩 Like Rubik's cubes </li>
-  <li>✍ Love Write</li>
+  <li>📚 Love read</li>
   <li>👾 Like play videogames</li>
 <ul>
-
-<h2>I'm currently</h2>
-<ul>
-  <li>🥖 Learning English</li>
-  <li>☁️ Learning DataBases</li>
-  <li>🐋 Learning Docker</li>
-  <li>🐍 Learning Python and JavaScript</li>
-  <li>📹 In the Process of Creating Content </li>
-</ul>
 
 <h2 align="center">Contact With me<h2>
 <p align="center"> 
@@ -45,7 +34,9 @@ I like
    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   
 
    
-### SKILLS THAT I WANNA LEARN
+<h2 align="center">Skills That I Wanna Learn</h2>
+
+  
    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
    ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -53,9 +44,7 @@ I like
    ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
    ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-   
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crisscde&layout=compact&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crisscde&show_icons=true&theme=aura_dark)
-
 
